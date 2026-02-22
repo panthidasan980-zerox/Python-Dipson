@@ -28,3 +28,15 @@ print("Day 20")
 
 print("Day 21")
 print("Day 22")
+
+print("Day 23")
+print("Day 24")
+print("Day 25")
+print("Day 26")
+print("Day 27")
+print("Day 28")
+
+print("Day 29")
+print("Day 30")
+
+print("Day 31")
