@@ -40,3 +40,8 @@ print("Day 29")
 print("Day 30")
 
 print("Day 31")
+print("Day 3232")
+print("Day 33")
+print("Day 34")
+
+print("Day 35")
